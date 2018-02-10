@@ -1,2 +1,4 @@
-# DAW
-MASTER
+```
+Compile : make
+Use: ./rtal scenefile outputFile(PNG)
+```
